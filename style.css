@@ -1,0 +1,20 @@
+body{background-color:#2b2b2b;}
+
+#written-text
+{
+    color:#00FF00;
+    line-height:1;
+}
+
+#written-text p{margin:0;}
+
+
+#console
+{
+    background-color: transparent;
+    resize: none;
+    border: 0px;
+    color:#00FF00;
+    outline: 0;
+    width:100%;
+}
